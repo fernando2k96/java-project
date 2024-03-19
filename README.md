@@ -1,3 +1,3 @@
 
 
-<img src="https://image.pngaaa.com/505/2459505-middle.png" alt="Meus projetos em Java">
+<img src="https://static-00.iconduck.com/assets.00/java-icon-256x256-k4ufhihr.png" alt="Meus projetos em Java">
